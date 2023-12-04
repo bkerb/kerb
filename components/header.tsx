@@ -18,7 +18,7 @@ export function Header() {
     >
       <div className="md:flex flex-1 hidden"></div>
       <Image
-        src="/logo/Yellow/png/KERB_logo-18.png"
+        src="/logo/Yellow/PNG/KERB_logo-18.png"
         alt="Kerb London logo"
         height={20}
         width={80}
